@@ -16,3 +16,4 @@ DevOps Helps you :
 ⦁	Release features faster (like adding new payment method in Zomato)
 ⦁	Fix bugs quickly (like fixing login issues)
 ⦁	Automate repetitive tasks
+Github - to store repositories
